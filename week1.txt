@@ -1,0 +1,21 @@
+--ML PROJECT BASICS
+
+Steps In ML Project:
+
+1. Look at the big picture.
+2. Get the data.
+3. Discover and visualize the data to gain insights.
+4. Prepare the data for Machine Learning algorithms.
+5. Select a model and train it.
+6. Fine-tune your model.
+7. Present your solution.
+8. Launch, monitor and maintain your system.
+
+
+Design consideration in problem framing:
+
+* Is this a supervised, unsupervised or a RL problem?
+* Is this a classification, regression or some other task?
+* What is the nature of the output: single or multiple  outputs?
+* Does system need continuous learning or periodic updates?
+* What would be the learning style: batch or online?
